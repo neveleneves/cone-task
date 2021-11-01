@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(214, 233, 255);
+  &__wrapper {
+    position: relative;
+    width: inherit;
+    height: inherit;
+  }
+}
